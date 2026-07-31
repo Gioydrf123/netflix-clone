@@ -12,6 +12,8 @@ Il progetto combina Next.js, TypeScript, Tailwind CSS e un database embedded per
 
 ---
 
+![screenshot](/screenshot.png)
+
 ## ✨ Tecnologie utilizzate
 
 | Area | Tecnologie |
